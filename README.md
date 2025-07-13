@@ -28,5 +28,5 @@ This folder contains the code for the CNN model. You can change the patch size f
 
 ##  Accuracy Assessment
 
-This folder contains the [script](Accuracy Assessment/Accuracy_assessment.ipynb) that takes [thematic images](Accuracy Assessment/Thematic_images) from Random Forest and CNN models as input and generates a model [accuracy report](Accuracy Assessment/model_accuracy_report.docx).
+This folder contains the [script](Accuracy-Assessment/Accuracy_assessment.ipynb) that takes [thematic images](Accuracy-Assessment/Thematic_images) from Random Forest and CNN models as input and generates a model [accuracy report](Accuracy-Assessment/model_accuracy_report.docx).
 
