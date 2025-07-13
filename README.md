@@ -1,5 +1,3 @@
-# LULC_Singrauli
-
 # Land-Use Land-Cover Classification Singrauli 
 
 This repository contains the code and data for land-use land-cover classification of the Singrauli district.
@@ -8,7 +6,7 @@ This repository contains the code and data for land-use land-cover classificatio
 
 This folder contains the JavaScript code exported from GEE. It exports the coordinates of the training dataset, the base image, and the Random Forest classified image.
 
-[Link to GE folder](GE)
+[GEE](GEE)
 
 ##  Raw Data
 
